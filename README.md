@@ -1,2 +1,3 @@
 # TrivializeMe
-Trivia Resource
+Trivia Resource still to be completed
+
