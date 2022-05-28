@@ -1,3 +1,2 @@
-# TrivializeMe
-Trivia Resource still to be completed
-
+# Swordspoint
+A Place for my DnD stuff
